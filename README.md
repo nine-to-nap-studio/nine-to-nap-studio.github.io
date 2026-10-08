@@ -2,8 +2,8 @@
 
 게임의 개인정보처리방침과 `app-ads.txt` 를 올리는 **공개** 사이트. 게임 소스는 각 게임의 private 레포에 있고, 여기엔 공개해도 되는 파일만 둔다.
 
-- 주소: https://nine-to-nap-games.github.io/
-- 레포: GitHub 조직 `nine-to-nap-games` 의 공개 레포 `nine-to-nap-games.github.io`
+- 주소: https://nine-to-nap-studio.github.io/
+- 레포: GitHub 조직 `nine-to-nap-studio` 의 공개 레포 `nine-to-nap-studio.github.io`
 - 이 레포 커밋 작성자 이름은 `Nine to Nap Games` 로 설정해 둠 (`git config user.name`, 이 폴더에만 적용)
 
 ## 파일
@@ -20,16 +20,16 @@
 ## 처음 올리기
 
 1. GitHub 에서 조직 만들기: https://github.com/account/organizations/new?plan=free
-   - 이름 `nine-to-nap-games`, 소유는 본인 개인 계정
+   - 이름 `nine-to-nap-studio`, 소유는 본인 개인 계정
    - 조직 → Settings → Member privileges 와 People 에서 멤버 공개 여부 확인 (멤버를 비공개로 두면 조직 페이지에 개인 계정이 안 보임)
-2. 조직 안에 **공개(Public)** 레포 `nine-to-nap-games.github.io` 만들기 (README·.gitignore 체크 해제)
+2. 조직 안에 **공개(Public)** 레포 `nine-to-nap-studio.github.io` 만들기 (README·.gitignore 체크 해제)
 3. 이 폴더에서 push
    ```bash
    cd ~/myProjects/game-site
-   git remote add origin git@github.com:nine-to-nap-games/nine-to-nap-games.github.io.git
+   git remote add origin git@github.com:nine-to-nap-studio/nine-to-nap-studio.github.io.git
    git push -u origin main
    ```
-4. 1~2분 뒤 https://nine-to-nap-games.github.io/ 확인. `조직이름.github.io` 레포는 기본 브랜치가 자동으로 사이트가 됨 (안 뜨면 레포 Settings → Pages → Source: Deploy from a branch, `main` / `(root)`)
+4. 1~2분 뒤 https://nine-to-nap-studio.github.io/ 확인. `조직이름.github.io` 레포는 기본 브랜치가 자동으로 사이트가 됨 (안 뜨면 레포 Settings → Pages → Source: Deploy from a branch, `main` / `(root)`)
 
 ## AdMob 게시자 ID 넣기
 
