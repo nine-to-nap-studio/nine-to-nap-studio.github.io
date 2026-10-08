@@ -1,10 +1,10 @@
-# Nine to Nap Games — 공개 사이트
+# Nine to Nap Studio — 공개 사이트
 
 게임의 개인정보처리방침과 `app-ads.txt` 를 올리는 **공개** 사이트. 게임 소스는 각 게임의 private 레포에 있고, 여기엔 공개해도 되는 파일만 둔다.
 
 - 주소: https://nine-to-nap-studio.github.io/
 - 레포: GitHub 조직 `nine-to-nap-studio` 의 공개 레포 `nine-to-nap-studio.github.io`
-- 이 레포 커밋 작성자 이름은 `Nine to Nap Games` 로 설정해 둠 (`git config user.name`, 이 폴더에만 적용)
+- 이 레포 커밋 작성자 이름은 `Nine to Nap Studio` 로 설정해 둠 (`git config user.name`, 이 폴더에만 적용)
 
 ## 파일
 
