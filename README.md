@@ -11,7 +11,7 @@
 | 파일 | 공개 주소 | 용도 |
 |---|---|---|
 | `index.html` | `/` | 개발자 소개·게임 목록·연락처. Play 스토어 "웹사이트" 칸에 이 주소를 넣음 |
-| `star-merge/privacy.html` | `/star-merge/privacy.html` | 별 머지 개인정보처리방침 (한국어) |
+| `star-merge/privacy.html` | `/star-merge/privacy.html` | 별 키우기 개인정보처리방침 (한국어) |
 | `star-merge/privacy-en.html` | `/star-merge/privacy-en.html` | 영어 번역 |
 | `app-ads.txt` | `/app-ads.txt` | AdMob 인증 판매자 목록. **반드시 루트**에 있어야 AdMob 이 찾음 |
 | `style.css` | | 공통 스타일 |
