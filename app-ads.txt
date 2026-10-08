@@ -1,0 +1,4 @@
+# Nine to Nap Games — authorized digital sellers for apps (IAB app-ads.txt)
+# TODO: replace pub-XXXXXXXXXXXXXXXX with the AdMob publisher ID
+#       (AdMob console → Settings → Account information → Publisher ID)
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
