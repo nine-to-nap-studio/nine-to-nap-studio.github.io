@@ -11,8 +11,8 @@
 | 파일 | 공개 주소 | 용도 |
 |---|---|---|
 | `index.html` | `/` | 개발자 소개·게임 목록·연락처. Play 스토어 "웹사이트" 칸에 이 주소를 넣음 |
-| `star-merge/privacy.html` | `/star-merge/privacy.html` | 별 키우기 개인정보처리방침 (한국어) |
-| `star-merge/privacy-en.html` | `/star-merge/privacy-en.html` | 영어 번역 |
+| `grow-a-star/privacy.html` | `/grow-a-star/privacy.html` | 별 키우기 개인정보처리방침 (한국어) |
+| `grow-a-star/privacy-en.html` | `/grow-a-star/privacy-en.html` | 영어 번역 |
 | `app-ads.txt` | `/app-ads.txt` | AdMob 인증 판매자 목록. **반드시 루트**에 있어야 AdMob 이 찾음 |
 | `style.css` | | 공통 스타일 |
 | `.nojekyll` | | GitHub Pages 가 파일을 가공하지 않고 그대로 내보내게 함 |
@@ -37,7 +37,7 @@ AdMob 가입 후 [설정 → 계정 정보 → 게시자 ID] 의 `pub-` 로 시�
 
 ## 다음 게임 추가
 
-1. `star-merge/` 폴더를 복사해 새 게임 폴더(예: `next-game/`) 만들기
+1. `grow-a-star/` 폴더를 복사해 새 게임 폴더(예: `next-game/`) 만들기
 2. `privacy.html`·`privacy-en.html` 의 게임 이름·처리 항목을 그 게임에 맞게 수정 (광고 SDK 가 같으면 대부분 그대로)
 3. `index.html` 게임 목록에 카드 추가
 4. 같은 AdMob 계정이면 `app-ads.txt` 는 그대로 (게시자 ID 는 계정 단위)
